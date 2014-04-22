@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/myApp">
+        <file>images/carte_maroc.png</file>
+        <file>images/marrakech6.jpg</file>
+        <file>images/redirect.jpg</file>
+    </qresource>
+</RCC>
